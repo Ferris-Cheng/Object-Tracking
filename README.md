@@ -51,6 +51,18 @@
          
          ECO+：https://zhuanlan.zhihu.com/p/36463844
          
+    1.5、Trick
+    
+         opencv3.2+vs2015：https://blog.csdn.net/CosmosHua/article/details/72183624
+         
+         opencv3.2+cmake：https://blog.csdn.net/cosmispower/article/details/60601151
+         
+         vs忽略警告：https://blog.csdn.net/Marryvivien/article/details/41347661
+         
+         vs-fopen错误：https://blog.csdn.net/howardge/article/details/42673213
+         
+         ImageWatch插件：https://blog.csdn.net/nnnnnnnnnnnny/article/details/52260370
+         
 2、KCF算法
 
     2.1、原理
