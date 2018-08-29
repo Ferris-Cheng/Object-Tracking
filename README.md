@@ -18,7 +18,7 @@
          
     1.2、散点
     
-         离散傅里叶变换：https://docs.opencv.org/2.4/doc/tutorials/core/discrete_fourier_transform/discrete_fourier_transform.html
+         dft：https://docs.opencv.org/2.4/doc/tutorials/core/discrete_fourier_transform/discrete_fourier_transform.html
          
          循环矩阵傅里叶对角化：https://blog.csdn.net/shenxiaolu1984/article/details/50884830
          
