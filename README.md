@@ -12,4 +12,5 @@
 ## 经典算法源码
 
 * **KCF(C++版本):**  [Hog-Lab](https://github.com/joaofaro/KCFcpp)
-* **KCF(c++版本):**  [Hog-CN](https://github.com/vojirt/kcf)
+* **KCF(C++版本):**  [Hog-CN](https://github.com/vojirt/kcf)
+* **ECO(Matleb版本):**  [MD的ECO](https://github.com/martin-danelljan/ECO)
