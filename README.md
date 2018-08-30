@@ -2,7 +2,7 @@
 
 ## 介绍
 
-*  相关知识点 && 大神博客专栏 && 论文阅读笔记 && Trick介绍   见 [wiki](https://github.com/Ferris-Cheng/Object-Tracking/wiki)
+*  相关知识点 && 大神博客专栏 && 论文阅读笔记 && Trick介绍      见---> [wiki](https://github.com/Ferris-Cheng/Object-Tracking/wiki)
 
 
 ## 跟踪foolwood动态
