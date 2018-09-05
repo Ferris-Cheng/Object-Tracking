@@ -5,7 +5,7 @@
 *  相关知识点 && 大神博客专栏 && 论文阅读笔记 && Trick介绍      见---> [wiki](https://github.com/Ferris-Cheng/Object-Tracking/wiki)
 
 
-## 跟踪foolwood动态1
+## 跟踪foolwood动态
 
 * **foolwood的总结:**  [benchmark_results](https://github.com/foolwood/benchmark_results)
 
